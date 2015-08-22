@@ -16,10 +16,9 @@ The script `run_analysis.R` performs the 5 following steps described in the cour
 * **Step 4.** A new dataset with proper descriptive variable names is created and exported in CSV format,
 * **Step 5.** A new independent tidy data set with the average of each variable for each activity and each subject is created holding 180 rows, this dataset is exported in output folder in 2 different formats.
 
-## Repository files & folders
+## Repository files
 
 The repository hosts the folowing files:
-The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
 * `README.md` describing how the script works,
 * `CodeBook.md` describing the variables of run_analysis and output file,
